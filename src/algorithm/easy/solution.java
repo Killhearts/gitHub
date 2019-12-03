@@ -9,6 +9,6 @@ import java.util.Arrays;
 public class solution {
     public static void main(String[] args) {
         //两数之和
-        System.out.println(Arrays.toString(twoSum.twoSum2(new int[]{2,7,11,16},9)));
+        System.out.println(Arrays.toString(twoSum.twoSum2(new int[]{2,7,11,16},18)));
     }
 }
