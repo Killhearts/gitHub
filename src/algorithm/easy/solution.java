@@ -11,6 +11,9 @@ public class solution {
         //两数之和
         //System.out.println(Arrays.toString(twoSum.twoSum2(new int[]{2,7,11,16},18)));
         //整数翻转
-        System.out.println(reverseInt.reverseInt(120));
+        //System.out.println(reverseInt.reverseInt(120));
+        //是否回文
+        System.out.println(isPalindrome.isPalindrome2(1221));
+
     }
 }
